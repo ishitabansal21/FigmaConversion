@@ -1,0 +1,33 @@
+<svg width="1499" height="3434" viewBox="0 0 1499 3434" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2_44" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1499" height="3434">
+<path d="M0 19.9999C0 8.95423 8.9543 0 20 0H1479C1490.05 0 1499 8.95431 1499 20V3414C1499 3425.05 1490.05 3434 1479 3434H20C8.95427 3434 0 3425.05 0 3414V19.9999Z" fill="url(#paint0_linear_2_44)"/>
+</mask>
+<g mask="url(#mask0_2_44)">
+<path d="M0 19.9999C0 8.95423 8.9543 0 20 0H1479C1490.05 0 1499 8.95431 1499 20V3414C1499 3425.05 1490.05 3434 1479 3434H20C8.95427 3434 0 3425.05 0 3414V19.9999Z" fill="url(#paint1_linear_2_44)"/>
+<line x1="50.1745" y1="-485.336" x2="50.1744" y2="4794.35" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="243.028" y1="-485.336" x2="243.028" y2="4794.35" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="435.882" y1="-485.336" x2="435.882" y2="4794.35" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="628.736" y1="-485.336" x2="628.736" y2="4794.35" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="821.59" y1="-485.336" x2="821.59" y2="4794.35" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1014.44" y1="-485.336" x2="1014.44" y2="4794.35" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1207.3" y1="-485.336" x2="1207.3" y2="4794.35" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1400.15" y1="-485.336" x2="1400.15" y2="4794.35" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1870.1" y1="434.363" x2="-227.918" y2="434.362" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1870.1" y1="919.672" x2="-227.918" y2="919.671" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1870.1" y1="1405.01" x2="-227.918" y2="1405.01" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1870.1" y1="1890.32" x2="-227.918" y2="1890.32" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1870.1" y1="2375.64" x2="-227.918" y2="2375.64" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1870.1" y1="2860.97" x2="-227.918" y2="2860.97" stroke="#FFF2F2" stroke-opacity="0.18"/>
+<line x1="1870.1" y1="3346.29" x2="-227.918" y2="3346.28" stroke="#FFF2F2" stroke-opacity="0.18"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2_44" x1="1437.64" y1="3163.99" x2="-854.45" y2="2230.32" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0D1335"/>
+<stop offset="1" stop-color="#FF5811"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2_44" x1="1437.64" y1="3163.99" x2="-854.45" y2="2230.32" gradientUnits="userSpaceOnUse">
+<stop stop-color="#353D6A"/>
+<stop offset="1" stop-color="#110422"/>
+</linearGradient>
+</defs>
+</svg>
